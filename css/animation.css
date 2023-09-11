@@ -1,0 +1,171 @@
+/* .photo-container-1 {
+    max-width: 800px;
+    width: 100%;
+    margin: 30px auto;
+    position: relative;
+    overflow: hidden;
+    
+}
+.photo-container-1 img {
+    width: 100%;
+    
+}
+.photo-container-1 .content_0 {
+    position: relative;
+    animation: rotate 3s linear 1s infinite;
+}
+.photo-container-1.content_1 { 
+    position: relative;
+ }
+
+ @keyframes rotate {
+    from {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+    }
+   
+    to {
+        transform: rotate(45deg) scale(3);
+        opacity: 0;
+        
+    }      
+}  
+
+
+.photo-container-2 {
+    max-width: 800px;
+    width: 100%;
+    margin: 30px auto;
+    position: relative;
+    overflow: hidden;
+    
+}
+.photo-container-2 img {
+    width: 100%;
+    
+}
+.photo-container-2 .photo-1 {
+    position: relative;
+    animation: rotate 3s linear 1s infinite;
+}
+ .photo-container-2 .photo-2 {
+    position: absolute;
+ }
+@keyframes rotate {
+    from {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+    }
+   
+    to {
+        transform: rotate(45deg) scale(3);
+        opacity: 0;
+        z-index: 1;
+    }      
+} 
+
+.photo-container-3 {
+    max-width: 800px;
+    width: 100%;
+    margin:30px auto;
+    position: relative;
+    overflow: hidden;
+    
+}
+.photo-container-3 img {
+    width: 100%;
+   
+   
+    
+}
+.photo-container-3 .photo-3 {
+    position: relative;
+    animation: rotate 3s linear 1s infinite;
+}
+.photo-container-3.photo-3 { 
+    position: absolute;
+    m
+ }
+
+ @keyframes rotate {
+    from {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+    }
+   
+    to {
+        transform: rotate(45deg) scale(3);
+        opacity: 0;
+        
+    }      
+}   
+.photo-container-4 {
+    max-width: 800px;
+    width: 100%;
+    margin:30px auto;
+    position: relative;
+    overflow: hidden;
+    
+}
+.photo-container-4 img {
+    width: 100%;
+   
+   
+    
+}
+.photo-container-4 .photo-4 {
+    position: relative;
+    animation: rotate 3s linear 1s infinite;
+}
+.photo-container-4.photo-4 { 
+    position: absolute;
+    m
+ }
+
+ @keyframes rotate {
+    from {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+    }
+   
+    to {
+        transform: rotate(45deg) scale(3);
+        opacity: 0;
+        
+    }      
+}   
+.photo-container-5 {
+    max-width: 800px;
+    width: 100%;
+    margin:30px auto;
+    position: relative;
+    overflow: hidden;
+    
+}
+.photo-container-5 img {
+    width: 100%;
+   
+   
+    
+}
+.photo-container-5 .photo-5 {
+    position: relative;
+    animation: rotate 3s linear 1s infinite;
+}
+.photo-container-5.photo-5 { 
+    position: absolute;
+    
+ }
+
+ @keyframes rotate {
+    from {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+    }
+   
+    to {
+        transform: rotate(45deg) scale(3);
+        opacity: 0;
+        
+    }      
+}    */
